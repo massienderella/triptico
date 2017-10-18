@@ -1,0 +1,61 @@
+.titulo{
+	background-color: yellow;
+	border: 1px solid black;
+	text-align: center;
+	overflow: hidden;
+	display: block;
+	width: 600px;
+}
+
+.text{
+	display: block;
+	border: 1px solid black;
+	width: 258px;
+	height: 400px;
+	position: relative;
+	left: 171px;
+	bottom: 1px;
+	text-align: center;
+	text-align: justify-all;
+}
+
+.monopoly1{
+	display: block;
+	width: 170px;
+	height: 400px;
+	border: 1px solid black;
+	position: relative;
+	bottom: 403px;
+}
+
+.monopoly2{
+	display: block;
+	width: 170px;
+	height: 400px;
+	border: 1px solid black;
+	position: relative;
+	bottom: 805px;
+	left: 430px;
+}
+
+.foto1{
+	margin: 2px;
+}
+
+.foto2{
+	margin: 2px;
+}
+
+.footer{
+	background-color: yellow;
+	border: 1px solid black;
+	text-align: center;
+	display: block;
+	width: 600px;
+	position: relative;
+	bottom: 806px;
+}
+
+h3 {
+	text-align: center;
+}
